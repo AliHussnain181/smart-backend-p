@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Output of build tools
+dist/
+build/
+out/
+output/
+
+# Environment variables
+.env
+
+# Testing and coverage
+coverage/
+.nyc_output/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package lock files
+npm-shrinkwrap.json
+yarn.lock
+package-lock.json
+.pnpm-lock.yaml
+.pnpmfile.js
+
+# TypeScript specific
+*.tsbuildinfo
+
+# Yarn Integrity file
+.yarn-integrity
+
+# macOS
+.DS_Store
+
+# Compiled binary addons
+*.node
